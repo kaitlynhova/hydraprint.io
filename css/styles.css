@@ -115,6 +115,12 @@
 
 /* PRINTER PAGE STYLES*/
 
+.add-printer{
+  background: #2C9A68;
+  color: white;
+  padding: 20px;
+}
+
 .printer-image{
   width: 100%;
 }
@@ -135,6 +141,20 @@ a:hover {
 body{
   font-family: "europa",sans-serif;
   color: #333333;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #337ab7;
+  border-color: #2e6da4;
+  border: none;
+}
+
+.btn-lg, .btn-group-lg > .btn {
+  padding: 10px 16px;
+  font-size: 18px;
+  line-height: 1.3333333;
+  border-radius: 0px;
 }
 
 
