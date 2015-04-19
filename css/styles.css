@@ -95,7 +95,6 @@
 
 .navbar-default .navbar-collapse, .navbar-default .navbar-form {
   border: none;
-  background: #4B78A3;
   text-align: center;
   -webkit-box-shadow: none;
   box-shadow: 0;
@@ -167,5 +166,8 @@ body{
     top: 8px;
     width: 200px;
     left: 65px;
+  }
+  .navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    background: #4B78A3;
   }
 }
