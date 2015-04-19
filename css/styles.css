@@ -1,0 +1,26 @@
+
+/* JOB STYLES */
+.job{
+  background: whitesmoke;
+  text-align:center;
+  margin-bottom: 20px;
+}
+
+.job-text{
+  padding: 20px;
+}
+
+.progress {
+  height: 50px;
+  margin-bottom: 0px;
+  overflow: hidden;
+  /* background-color: #f5f5f5; */
+  border-radius: 0px;
+  -webkit-box-shadow: 0;
+  box-shadow: none;
+  background: lightgray;
+}
+
+.progress-bar-danger, .progress-bar-warning, .progress-bar-success {
+  padding: 15px;
+}
