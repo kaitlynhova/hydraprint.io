@@ -1,5 +1,13 @@
 /* JOB STYLES */
 
+.add-job{
+  background-image: url('../images/add.png') !important;
+  height: 200px;
+  background-size: cover !important;
+  background-position-x: 50% !important;
+  background-position-y: 50% !important;
+}
+
 .progress {
   height: 50px;
   margin-bottom: 0px;
