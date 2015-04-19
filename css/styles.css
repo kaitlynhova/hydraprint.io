@@ -2,6 +2,7 @@
 
 body{
   font-family: "europa",sans-serif;
+  color: #333333;
 }
 
 
@@ -20,6 +21,10 @@ body{
 
 .progress-bar-danger, .progress-bar-warning, .progress-bar-success {
   padding: 15px;
+}
+
+#jobs a{
+  color: #333333;
 }
 
 .job{
