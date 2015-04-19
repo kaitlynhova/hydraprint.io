@@ -4,6 +4,11 @@
   background: whitesmoke;
   text-align:center;
   margin-bottom: 20px;
+  transition: .5s;
+}
+
+.job:hover{
+  opacity: .7;
 }
 
 .job-text{
