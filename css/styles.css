@@ -75,3 +75,15 @@ body{
   font-family: "europa",sans-serif;
   color: #333333;
 }
+
+
+/* MOBILE STYLES */
+@media screen and (max-width: 768px) {
+  .brand-logo {
+    left: 15px;
+  }
+  .brand-title {
+    top: 8px;
+    left: 65px;
+  }
+}
