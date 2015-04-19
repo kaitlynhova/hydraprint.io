@@ -1,19 +1,11 @@
+/* TEXT STYLES */
+
+body{
+  font-family: "europa",sans-serif;
+}
+
 
 /* JOB STYLES */
-.job{
-  background: whitesmoke;
-  text-align:center;
-  margin-bottom: 20px;
-  transition: .5s;
-}
-
-.job:hover{
-  opacity: .7;
-}
-
-.job-text{
-  padding: 20px;
-}
 
 .progress {
   height: 50px;
@@ -28,4 +20,19 @@
 
 .progress-bar-danger, .progress-bar-warning, .progress-bar-success {
   padding: 15px;
+}
+
+.job{
+  background: whitesmoke;
+  text-align:center;
+  margin-bottom: 20px;
+  transition: .5s;
+}
+
+.job:hover{
+  opacity: .7;
+}
+
+.job-text{
+  padding: 20px;
 }
