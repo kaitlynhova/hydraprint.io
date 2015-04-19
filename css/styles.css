@@ -113,7 +113,24 @@
   background-color: transparent !important;
 }
 
+/* PRINTER PAGE STYLES*/
+
+.printer-image{
+  width: 100%;
+}
+
 /* TEXT STYLES */
+
+a {
+  color: white;
+  text-decoration: none;
+  transition: .5s;
+}
+a:hover {
+  color: white;
+  text-decoration: none;
+  opacity: .7;
+}
 
 body{
   font-family: "europa",sans-serif;
