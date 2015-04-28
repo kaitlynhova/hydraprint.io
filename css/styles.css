@@ -49,14 +49,14 @@
 
 .brand-logo{
   width: 100%;
-  max-width: 40px;
+  max-width: 30px;
   position: absolute;
-  top: 6px;
+  top: 12px;
 }
 
 .brand-title{
   position: relative;
-  left: 55px;
+  left: 37px;
   font-size: 28px;
   top: 5px;
 }
