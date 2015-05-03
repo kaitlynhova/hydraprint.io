@@ -49,21 +49,21 @@
 
 .brand-logo{
   width: 100%;
-  max-width: 30px;
+  max-width: 52px;
   position: absolute;
-  top: 12px;
+  top: 1px;
 }
 
 .brand-title{
   position: relative;
-  left: 37px;
+  left: 60px;
   font-size: 28px;
   top: 5px;
 }
 
 .navbar-default {
-  background-color: #316191;
-  border-color: #316191;
+  background-color: #676264;
+  border: 0px;
   border-radius: 0;
   color: white;
   border: none;
@@ -188,7 +188,7 @@ button.close {
     left: 65px;
   }
   .navbar-default .navbar-collapse, .navbar-default .navbar-form {
-    background: #4B78A3;
+    background: #333333;
   }
   .btn{
     float: right;
