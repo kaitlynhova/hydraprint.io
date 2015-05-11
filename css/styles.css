@@ -61,7 +61,7 @@
 }
 
 .navbar-default {
-  background-color: rgb(103, 98, 100);
+  background-color: #A7A7A7;
   border: 0px;
   border-radius: 0;
   color: white;
@@ -150,7 +150,7 @@ button.close {
 
 .btn-primary, .btn-primary:active,  .btn-primary:focus {
   color: #fff;
-  background-color: #2C9A68;
+  background-color: #60A144;
   border-color: #2e6da4;
   border: none;
   outline: 0;
